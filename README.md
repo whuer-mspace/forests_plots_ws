@@ -13,6 +13,8 @@ Extraction code：d1tb
 
 
 
+
+
 In the past two decades, forestry survey methods have seen unprecedented advancements, thanks to the flourishing of close-range sensing platforms. These platforms primarily encompass static, mobile, terrestrial, and unmanned aerial systems. However, research on achieving fully autonomous drone flights for forestry surveys in the under-canopy environment is just beginning. The forest environment poses a typical complex scenario, especially beneath the canopy, where high-precision global navigation systems fail to provide reliable positioning services. Achieving efficient fully autonomous exploration by drones in such conditions is a challenging task.
 
 The first hurdle to overcome is the high-precision positioning problem for drones in this scenario. Additionally, an outstanding motion planner is required for real-time obstacle avoidance to ensure the drone's safety. The video introduces the latest work from the Multi-source Perception and Cognition Team at Wuhan University, which has successfully achieved efficient under-canopy drone autonomous exploration for forestry survey data collection.
