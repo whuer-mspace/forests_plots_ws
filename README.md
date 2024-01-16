@@ -1,5 +1,6 @@
 # forests_plots_quadrotor_autonomous-exploration
-     
+     ![宣传页](https://github.com/whuer-mspace/forests_haep_ws/assets/44198932/d75f4551-13d7-4f38-80c0-36fe05a337e9)
+
 Given the scarcity of high-precision and high-fidelity forest simulation data in the realm of UAV autonomous forest exploration, we employ a Terrestrial Laser Scanner (TLS) with millimeter-level accuracy to capture extensive data from both artificial and natural forests. The point cloud data we have made openly available encompasses four different scenarios, including both artificial and natural forest point clouds. This authentic forest point cloud data is used to create a high-fidelity simulation model. "We've publicly released high-quality point cloud simulation models. However, due to GitHub's 25MB data upload limit, the ones available under 'map_generator/resource/' are downsampled, lower-quality point cloud simulation models. For the higher-quality point cloud simulation models, please use the following link to download them from Baidu Cloud:"  
 
 Link：https://pan.baidu.com/s/1yuqRLsZSF0jOdis30nckaA?pwd=d1tb 
