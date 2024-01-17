@@ -1,13 +1,15 @@
 # forests_plots_quadrotor_autonomous-exploration
-    
+
+Given the scarcity of high-precision and high-fidelity forest simulation data in the realm of UAV autonomous forest exploration, we employ a Terrestrial Laser Scanner (TLS) with millimeter-level accuracy to capture extensive data from both artificial and natural forests. The point cloud data we have made openly available encompasses four different scenarios, including both artificial and natural forest point clouds. This authentic forest point cloud data is used to create a high-fidelity simulation model. "We've publicly released high-quality point cloud simulation models. However, due to GitHub's 25MB data upload limit, the ones available under 'map_generator/resource/' are downsampled, lower-quality point cloud simulation models. For the higher-quality point cloud simulation models, please use the following link to download them from Baidu Cloud:"  
+
 # A Leica RTC 360 Terrestrial Laser Scanner (TLS) with millimeter-level accuracy
 ![RTC360](https://github.com/whuer-mspace/forests_plots_ws/assets/44198932/055b0c2d-a3fe-4fb0-a802-9f6a9901abce)
 
-# A self-developed quadrotor platform with an autonomous flight and exploration functions
+# A self-developed quadrotor platform with autonomous flight and exploration functions
 
 ![haibao](https://github.com/whuer-mspace/forests_haep_ws/assets/44198932/db5422e6-a303-4f73-92a1-fefd06c36cc6)
 
-Given the scarcity of high-precision and high-fidelity forest simulation data in the realm of UAV autonomous forest exploration, we employ a Terrestrial Laser Scanner (TLS) with millimeter-level accuracy to capture extensive data from both artificial and natural forests. The point cloud data we have made openly available encompasses four different scenarios, including both artificial and natural forest point clouds. This authentic forest point cloud data is used to create a high-fidelity simulation model. "We've publicly released high-quality point cloud simulation models. However, due to GitHub's 25MB data upload limit, the ones available under 'map_generator/resource/' are downsampled, lower-quality point cloud simulation models. For the higher-quality point cloud simulation models, please use the following link to download them from Baidu Cloud:"  
+
 
 Link：https://pan.baidu.com/s/1yuqRLsZSF0jOdis30nckaA?pwd=d1tb 
 
