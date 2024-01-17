@@ -16,7 +16,7 @@ Extraction code：d1tb
 
 # Forests Plot
 
-<img width="803" alt="forests" src="https://github.com/whuer-mspace/forests_fuel_ws/assets/44198932/ec953915-9a21-4ea0-900c-e79be0073429">
+![image](https://github.com/whuer-mspace/forests_plots_ws/assets/44198932/40549205-9b50-451d-bbfc-79fb503cace1)
 
 
 In the past two decades, forestry survey methods have seen unprecedented advancements, thanks to the flourishing of close-range sensing platforms. These platforms primarily encompass static, mobile, terrestrial, and unmanned aerial systems. However, research on achieving fully autonomous drone flights for forestry surveys in the under-canopy environment is just beginning. The forest environment poses a typical complex scenario, especially beneath the canopy, where high-precision global navigation systems fail to provide reliable positioning services. Achieving efficient fully autonomous exploration by drones in such conditions is a challenging task.
@@ -25,7 +25,7 @@ The first hurdle to overcome is the high-precision positioning problem for drone
 
 Our quadrotor autonomous exploration field experiments in forests can be found at https://youtu.be/tRm9xuXOqBc.
 
-
+This simulation code uses [MARSIM](https://github.com/hku-mars/MARSIM.git), please check the [MARSIM](https://github.com/hku-mars/MARSIM.git) code configuration to use this public data set in detail.
 
 ## Acknowledgments
 
