@@ -3,7 +3,7 @@
 # A Leica RTC 360 Terrestrial Laser Scanner (TLS) with millimeter-level accuracy
 ![RTC360](https://github.com/whuer-mspace/forests_plots_ws/assets/44198932/055b0c2d-a3fe-4fb0-a802-9f6a9901abce)
 
-# A self-developed quadrotor platform with an autonomous flight and exploration function
+# A self-developed quadrotor platform with an autonomous flight and exploration functions
 
 ![haibao](https://github.com/whuer-mspace/forests_haep_ws/assets/44198932/db5422e6-a303-4f73-92a1-fefd06c36cc6)
 
