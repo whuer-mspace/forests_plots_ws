@@ -25,7 +25,7 @@ The first hurdle to overcome is the high-precision positioning problem for drone
 
 Our quadrotor autonomous exploration field experiments in forests can be found at https://youtu.be/tRm9xuXOqBc.
 
-This simulation code uses [MARSIM](https://github.com/hku-mars/MARSIM.git), please check the [MARSIM](https://github.com/hku-mars/MARSIM.git) code configuration to use this public data set in detail.
+The simulation code utilizes [MARSIM](https://github.com/hku-mars/MARSIM.git). Please thoroughly review the [MARSIM](https://github.com/hku-mars/MARSIM.git) code configuration for using this publicly available dataset.
 
 ## Acknowledgments
 
