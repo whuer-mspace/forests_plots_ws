@@ -23,7 +23,7 @@ In the past two decades, forestry survey methods have seen unprecedented advance
 
 The first hurdle to overcome is the high-precision positioning problem for drones in this scenario. Additionally, an outstanding motion planner is required for real-time obstacle avoidance to ensure the drone's safety. The video introduces the latest work from the Multi-source Perception and Cognition Team at Wuhan University, which has successfully achieved efficient under-canopy drone autonomous exploration for forestry survey data collection.
 
-Our quadrotor autonomous exploration field experiments in forests can be found at https://youtu.be/tRm9xuXOqBc.
+Our quadrotor autonomous exploration field experiments in forests can be found at https://youtu.be/JZouAoAbgr0.
 
 The simulation code utilizes [MARSIM](https://github.com/hku-mars/MARSIM.git). Please thoroughly review the [MARSIM](https://github.com/hku-mars/MARSIM.git) code configuration for using this publicly available dataset.
 
